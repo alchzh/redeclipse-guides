@@ -40,6 +40,6 @@ Like every other weapon, the pistol should not be used in every situation. Here'
 - Against a shotgun at close quarters
 
 ###How do I use it?
-Now that we've covered when you should pull you your trusty handgun, let's talk about **when** you should use it.  
+Now that we've covered when you should pull you your trusty handgun, let's talk about **how** you should use it.  
 A few important things to remember:
 - The pistol is **semi**-automatic, this means that you will have to spam your mouse button for maximum fire rate
