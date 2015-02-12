@@ -18,6 +18,7 @@ Like every other weapon, the pistol should not be used in every situation. Here'
 - At long ranges
 - Against skillfull parkourists
 - Against a shotgun at close quarters
+
 ----
 <span style='font-family:verdana;'>
 The pistol is often overlooked when searching for weapons, but this handgun packs a punch that rivals and may even outclass that of the SMG or Plasma at short to medium ranges.
