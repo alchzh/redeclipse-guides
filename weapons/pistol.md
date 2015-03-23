@@ -27,206 +27,176 @@ A few important things to remember:
 - The pistol is **semi**-automatic, this means that you will have to spam your mouse button for maximum fire rate
 
 #Vars Good Old Vars
+##General Variables
 |Name|Value|
 |----|----|
-| pistolaidist1              | 512.0            |
-| pistolaidist2              | 256.0            |
-| pistolaiskew1              | 2                |
-| pistolaiskew2              | 2                |
-| pistolammoadd              | 10               |
-| pistolammomax              | 10               |
-| pistolammosub1             | 1                |
-| pistolammosub2             | 1                |
-| pistolblend1               | 1.0              |
-| pistolblend2               | 1.0              |
-| pistolcollide1             | 61               |
-| pistolcollide2             | 61               |
-| pistolcolour               | 0xC0C0C0         |
-| pistolcooked1              | 0                |
-| pistolcooked2              | 0                |
-| pistolcooktime1            | 0                |
-| pistolcooktime2            | 0                |
-| pistoldamage1              | 25               |
-| pistoldamage2              | 35               |
-| pistoldamagehead1          | 1.0              |
-| pistoldamagehead2          | 1.0              |
-| pistoldamagelegs1          | 0.325            |
-| pistoldamagelegs2          | 0.325            |
-| pistoldamagepenalty1       | 1.0              |
-| pistoldamagepenalty2       | 1.0              |
-| pistoldamageself1          | 1.0              |
-| pistoldamageself2          | 1.0              |
-| pistoldamageteam1          | 1.0              |
-| pistoldamageteam2          | 1.0              |
-| pistoldamagetorso1         | 0.5              |
-| pistoldamagetorso2         | 0.6              |
-| pistoldamagewhiplash1      | 0.8              |
-| pistoldamagewhiplash2      | 0.8              |
-| pistoldelayattack1         | 130              |
-| pistoldelayattack2         | 200              |
-| pistoldelayreload          | 1000             |
-| pistoldisabled             | 0                |
-| pistoldrill1               | 0                |
-| pistoldrill2               | 0                |
-| pistolelasticity1          | 0.5              |
-| pistolelasticity2          | 0.5              |
-| pistolescapedelay1         | 200              |
-| pistolescapedelay2         | 200              |
-| pistolexplcol1             | -1               |
-| pistolexplcol2             | -1               |
-| pistolexplode1             | 0.0              |
-| pistolexplode2             | 0.0              |
-| pistolextinguish1          | 2                |
-| pistolextinguish2          | 2                |
-| pistolfade1                | 1                |
-| pistolfade2                | 1                |
-| pistolfadeat1              | 4.0              |
-| pistolfadeat2              | 4.0              |
-| pistolfadecut1             | 0.0              |
-| pistolfadecut2             | 0.0              |
-| pistolfadetime1            | 0                |
-| pistolfadetime2            | 0                |
-| pistolflakblend1           | 1.0              |
-| pistolflakblend2           | 1.0              |
-| pistolflakcollide1         | 61               |
-| pistolflakcollide2         | 61               |
-| pistolflakdamage1          | 25               |
-| pistolflakdamage2          | 35               |
-| pistolflakdamagehead1      | 1.0              |
-| pistolflakdamagehead2      | 1.0              |
-| pistolflakdamagelegs1      | 0.325            |
-| pistolflakdamagelegs2      | 0.325            |
-| pistolflakdamagepenalty1   | 0.0              |
-| pistolflakdamagepenalty2   | 0.0              |
-| pistolflakdamageself1      | 1.0              |
-| pistolflakdamageself2      | 1.0              |
-| pistolflakdamageteam1      | 1.0              |
-| pistolflakdamageteam2      | 1.0              |
-| pistolflakdamagetorso1     | 0.5              |
-| pistolflakdamagetorso2     | 0.6              |
-| pistolflakdamagewhiplash1  | 0.8              |
-| pistolflakdamagewhiplash2  | 0.8              |
-| pistolflakdrill1           | 0                |
-| pistolflakdrill2           | 0                |
-| pistolflakelasticity1      | 0.5              |
-| pistolflakelasticity2      | 0.5              |
-| pistolflakexplcol1         | -1               |
-| pistolflakexplcol2         | -1               |
-| pistolflakexplode1         | 0.0              |
-| pistolflakexplode2         | 0.0              |
-| pistolflakextinguish1      | 2                |
-| pistolflakextinguish2      | 2                |
-| pistolflakfade1            | 1                |
-| pistolflakfade2            | 1                |
-| pistolflakfadeat1          | 4.0              |
-| pistolflakfadeat2          | 4.0              |
-| pistolflakfadecut1         | 0.0              |
-| pistolflakfadecut2         | 0.0              |
-| pistolflakfadetime1        | 0                |
-| pistolflakfadetime2        | 0                |
-| pistolflakguided1          | 0                |
-| pistolflakguided2          | 0                |
-| pistolflakguideddelay1     | 0                |
-| pistolflakguideddelay2     | 0                |
-| pistolflakheadmin1         | 0.0              |
-| pistolflakheadmin2         | 0.0              |
-| pistolflakhitpush1         | 35.0             |
-| pistolflakhitpush2         | 35.0             |
-| pistolflakhitvel1          | 0.0              |
-| pistolflakhitvel2          | 0.0              |
-| pistolflakinteracts1       | 1                |
-| pistolflakinteracts2       | 1                |
-| pistolflaklightcol1        | 0xC0C0C0         |
-| pistolflaklightcol2        | 0xC0C0C0         |
-| pistolflakliquidcoast1     | 2.0              |
-| pistolflakliquidcoast2     | 2.0              |
-| pistolflakobitheadless1    | capped           |
-| pistolflakobitheadless2    | capped           |
-| pistolflakobitobliterated1 | skewered         |
-| pistolflakobitobliterated2 | skewered         |
-| pistolflakobitsuicide1     | ate a bullet     |
-| pistolflakobitsuicide2     | ate a bullet     |
-| pistolflakobituary1        | picked to pieces |
-| pistolflakobituary2        | picked to pieces |
-| pistolflakpartblend1       | 0.3              |
-| pistolflakpartblend2       | 0.6              |
-| pistolflakpartcol1         | 0xC0C0C0         |
-| pistolflakpartcol2         | 0xC0C0C0         |
-| pistolflakpartfade1        | 250              |
-| pistolflakpartfade2        | 250              |
-| pistolflakpartlen1         | 8.0              |
-| pistolflakpartlen2         | 16.0             |
-| pistolflakpartsize1        | 0.125            |
-| pistolflakpartsize2        | 0.25             |
-| pistolflakparttype1        | 1                |
-| pistolflakparttype2        | 1                |
-| pistolflakproxdelay1       | 0                |
-| pistolflakproxdelay2       | 0                |
-| pistolflakproxdist1        | 0.0              |
-| pistolflakproxdist2        | 0.0              |
-| pistolflakproxtime1        | 0                |
-| pistolflakproxtime2        | 0                |
-| pistolflakproxtype1        | 0                |
-| pistolflakproxtype2        | 0                |
-| pistolflakradial1          | 0                |
-| pistolflakradial2          | 0                |
-| pistolflakradius1          | 1.0              |
-| pistolflakradius2          | 1.0              |
-| pistolflakreflectivity1    | 0.0              |
-| pistolflakreflectivity2    | 0.0              |
-| pistolflakresidual1        | 0                |
-| pistolflakresidual2        | 0                |
-| pistolflakresidualundo1    | 0                |
-| pistolflakresidualundo2    | 0                |
-| pistolflakspeeddelta1      | 10.0             |
-| pistolflakspeeddelta2      | 10.0             |
-| pistolflakspeedmax1        | 0.0              |
-| pistolflakspeedmax2        | 0.0              |
-| pistolflakspeedmin1        | 50.0             |
-| pistolflakspeedmin2        | 50.0             |
-| pistolflakstun1            | 3                |
-| pistolflakstun2            | 3                |
-| pistolflakstunfall1        | 0.0              |
-| pistolflakstunfall2        | 0.0              |
-| pistolflakstunscale1       | 0.25             |
-| pistolflakstunscale2       | 0.25             |
-| pistolflakstuntime1        | 25               |
-| pistolflakstuntime2        | 25               |
-| pistolflaktaper1           | 0                |
-| pistolflaktaper2           | 0                |
-| pistolflaktaperin1         | 0.0              |
-| pistolflaktaperin2         | 0.0              |
-| pistolflaktaperout1        | 0.0              |
-| pistolflaktaperout2        | 0.0              |
-| pistolflakvisfade1         | 1.0              |
-| pistolflakvisfade2         | 1.0              |
-| pistolflakvistime1         | 0                |
-| pistolflakvistime2         | 0                |
-| pistolflakwavepush1        | 1.5              |
-| pistolflakwavepush2        | 1.5              |
-| pistolflakweight1          | 0.0              |
-| pistolflakweight2          | 0.0              |
-| pistolfragjump1            | 0.0              |
-| pistolfragjump2            | 0.0              |
-| pistolfragoffset1          | 4.0              |
-| pistolfragoffset2          | 4.0              |
-| pistolfragrays1            | 5                |
-| pistolfragrays2            | 5                |
-| pistolfragrel1             | 1.0              |
-| pistolfragrel2             | 1.0              |
-| pistolfragscale1           | 1.0              |
-| pistolfragscale2           | 1.0              |
-| pistolfragskew1            | 1.0              |
-| pistolfragskew2            | 1.0              |
-| pistolfragspeed1           | 0                |
-| pistolfragspeed2           | 0                |
-| pistolfragspeedmax1        | 0.0              |
-| pistolfragspeedmax2        | 0.0              |
-| pistolfragspeedmin1        | 50.0             |
-| pistolfragspeedmin2        | 50.0             |
-| pistolfragspread1          | 1.0              |
-| pistolfragspread2          | 1.0              |
-| pistolfragtime1            | 500              |
-| pistolfragtime2            | 500              |
-| pistolfragtimedelay1       | 0                |
-| pistolfragtimedelay2       | 0                |
+|ammomax|10
+|disabled|0
+|lightradius|8.0
+|ammoadd|10
+|delayreload|1000
+|lightpersist|0
+|colour|0xC0C0C0
+|name|"pistol"
+|modes|-64
+|laser|0
+|muts|-56
+|frequency|0.0
+##Fire Variables
+|Name|Primary|Secondary|
+|----|----|----|
+|flakreflectivity|0.0|0.0|
+|flaktaper|0|0|
+|flakextinguish|2|2|
+|flakpartcol|0xC0C0C0|0xC0C0C0|
+|blend|1.0|1.0|
+|flakpartfade|250|250|
+|flakparttype|1|1|
+|drill|0|0|
+|radius|1.0|1.0|
+|flakguided|0|0|
+|damagelegs|0.325|0.325|
+|fadetime|0|0|
+|time|2000|1000|
+|fragtimeiter|0|0|
+|flakblend|1.0|1.0|
+|delayattack|130|200|
+|aiskew|2|2|
+|flakobitheadless|"capped"|"capped"|
+|wavepush|1.5|1.5|
+|flakdamageself|1.0|1.0|
+|flakresidualundo|0|0|
+|partsize|0.125|0.25|
+|fragspeedmin|50.0|50.0|
+|collide|61|61|
+|visfade|1.0|1.0|
+|flakexplode|0.0|0.0|
+|flakresidual|0|0|
+|flakradial|0|0|
+|flakpartsize|0.125|0.25|
+|timedelay|0|0|
+|flaktaperout|0.0|0.0|
+|fragtimedelay|0|0|
+|guided|0|0|
+|flakstunfall|0.0|0.0|
+|fragrel|1.0|1.0|
+|flakdamagehead|1.0|1.0|
+|fadeat|4.0|4.0|
+|fragrays|5|5|
+|proxdelay|0|0|
+|flakdamagetorso|0.5|0.6|
+|fragscale|1.0|1.0|
+|damagewhiplash|0.8|0.8|
+|obitsuicide|"ate a bullet"|"ate a bullet"|
+|flakliquidcoast|2.0|2.0|
+|extinguish|2|2|
+|flakdamageteam|1.0|1.0|
+|flakdamage|25|35|
+|elasticity|0.5|0.5|
+|stun|3|3|
+|trace|1.0|1.0|
+|flaktaperin|0.0|0.0|
+|relativity|0.05|0.05|
+|flakexplcol|-1|-1|
+|partblend|0.3|0.6|
+|fragspeed|0|0|
+|lightcol|0xC0C0C0|0xC0C0C0|
+|aidist|512.0|256.0|
+|speedmin|0.0|0.0|
+|reflectivity|0.0|0.0|
+|damage|25|35|
+|partcol|0xC0C0C0|0xC0C0C0|
+|proxdist|0.0|0.0|
+|guideddelay|0|0|
+|cooked|0|0|
+|flakhitvel|0.0|0.0|
+|stunfall|0.0|0.0|
+|damagehead|1.0|1.0|
+|escapedelay|200|200|
+|flakvisfade|1.0|1.0|
+|flakelasticity|0.5|0.5|
+|liquidcoast|2.0|2.0|
+|flakobitsuicide|"ate a bullet"|"ate a bullet"|
+|flakspeedmax|0.0|0.0|
+|flakpartlen|8.0|16.0|
+|flakcollide|61|61|
+|flakobitobliterated|"skewered"|"skewered"|
+|cooktime|0|0|
+|fragspeedmax|0.0|0.0|
+|speedlimit|0|0|
+|residualundo|0|0|
+|flakspeedmin|50.0|50.0|
+|proxtime|0|0|
+|spreadmin|0.0|0.0|
+|explode|0.0|0.0|
+|flakstunscale|0.25|0.25|
+|kickpush|4.0|6.0|
+|obitobliterated|"skewered"|"skewered"|
+|fragspread|1.0|1.0|
+|headmin|0.0|0.0|
+|fragjump|0.0|0.0|
+|stunscale|0.25|0.25|
+|flakstuntime|25|25|
+|flakfade|1|1|
+|speedmax|0.0|0.0|
+|damageself|1.0|1.0|
+|ammosub|1|1|
+|explcol|-1|-1|
+|taperin|0.0|0.0|
+|flakwavepush|1.5|1.5|
+|flakfadeat|4.0|4.0|
+|damagetorso|0.5|0.6|
+|parttype|1|1|
+|vistime|0|0|
+|flakfadetime|0|0|
+|partlen|8.0|16.0|
+|flakproxtype|0|0|
+|flakweight|0.0|0.0|
+|residual|0|0|
+|speeddelta|10.0|10.0|
+|flakhitpush|35.0|35.0|
+|hitvel|0.0|0.0|
+|flakproxdelay|0|0|
+|flakpartblend|0.3|0.6|
+|flakdamagewhiplash|0.8|0.8|
+|fragskew|1.0|1.0|
+|proxtype|0|0|
+|obitheadless|"capped"|"capped"|
+|interacts|1|1|
+|rays|1|1|
+|flaklightcol|0xC0C0C0|0xC0C0C0|
+|flakvistime|0|0|
+|flakinteracts|1|1|
+|flakproxtime|0|0|
+|speed|1500|1000|
+|flakfadecut|0.0|0.0|
+|weight|0.0|0.0|
+|fullauto|0|0|
+|radial|0|0|
+|hitpush|35.0|35.0|
+|stuntime|25|25|
+|spreadz|2.0|2.0|
+|fade|1|1|
+|flakheadmin|0.0|0.0|
+|flakstun|3|3|
+|taper|0|0|
+|taperout|0.0|0.0|
+|fragweap|-1|-1|
+|flakproxdist|0.0|0.0|
+|spreadmax|0.0|0.0|
+|flakspeeddelta|10.0|10.0|
+|fragtime|500|500|
+|flakguideddelay|0|0|
+|damageteam|1.0|1.0|
+|flakdrill|0|0|
+|flakradius|1.0|1.0|
+|flakdamagepenalty|0.0|0.0|
+|fadecut|0.0|0.0|
+|partfade|250|250|
+|obituary|"pierced"|"pierced"|
+|damagepenalty|1.0|1.0|
+|flakobituary|"picked to pieces"|"picked to pieces"|
+|timeiter|0|0|
+|fragoffset|4.0|4.0|
+|spread|1.0|2.0|
+|flakdamagelegs|0.325|0.325|
