@@ -1,10 +1,10 @@
 #How to Red Eclipse Weapons Guide: Pistol
 ----
 <span style='font-family:verdana;'>
-The pistol is often overlooked when searching for weapons, but this handgun packs a punch that rivals and may even outclass that of the SMG or Plasma at short to medium ranges.
+Welcome to the first weapon guide! We're going to start with the weapon that you'll always have no matter you're loadout, the Pistol!
 ###What is the Pistol? (Noob section)
 <span style='font-family:verdana;'>
-If you are unaware, the pistol is the spawn weapon that by default given to every player upon spawn. This means that **everybody** has a pistol, unless the `spawnweapon` varible is modified. Because of this many beginners think that the pistol is juat a useless weapon isn't viable, save for perhaps if you only have close range weapons. **THESE PEOPLE ARE WRONG!** The Pistol is perfectly viable in many situations. Lets begin.  
+The Pistol is the default spawnweapon, and as such, you'll have it whereever you are  
 ###When should I use it?
 Like every other weapon, the pistol is effective in certain situations. Here's a quick list of when you should use it.  
 - When you are short to medium range away from your opponent
