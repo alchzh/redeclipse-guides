@@ -39,6 +39,7 @@ A few important things to remember:
 |laser|0
 |lightpersist|0
 |lightradius|8.0
+|longname|"sidearm-pistol"
 |modes|-64
 |muts|-56
 |name|"pistol"
@@ -54,13 +55,14 @@ A few important things to remember:
 |cooktime|0|0|
 |damage|25|35|
 |damagehead|1.0|1.0|
-|damagelegs|0.325|0.325|
+|damagelegs|0.3|0.3|
 |damagepenalty|1.0|1.0|
 |damageself|1.0|1.0|
 |damageteam|1.0|1.0|
-|damagetorso|0.5|0.6|
+|damagetorso|0.5|0.5|
 |damagewhiplash|0.8|0.8|
 |delayattack|130|200|
+|desc|"long-range, low-damage bullets with a high rate of fire."|"slower rate of fire than the primary attack, but does more damage."|
 |drill|0|0|
 |elasticity|0.5|0.5|
 |escapedelay|200|200|
@@ -75,11 +77,11 @@ A few important things to remember:
 |flakcollide|61|61|
 |flakdamage|25|35|
 |flakdamagehead|1.0|1.0|
-|flakdamagelegs|0.325|0.325|
+|flakdamagelegs|0.3|0.3|
 |flakdamagepenalty|0.0|0.0|
 |flakdamageself|1.0|1.0|
 |flakdamageteam|1.0|1.0|
-|flakdamagetorso|0.5|0.6|
+|flakdamagetorso|0.5|0.5|
 |flakdamagewhiplash|0.8|0.8|
 |flakdrill|0|0|
 |flakelasticity|0.5|0.5|
@@ -126,6 +128,8 @@ A few important things to remember:
 |flakstuntime|25|25|
 |flaktaper|0|0|
 |flaktaperin|0.0|0.0|
+|flaktapermax|1.0|1.0|
+|flaktapermin|0.0|0.0|
 |flaktaperout|0.0|0.0|
 |flakvisfade|1.0|1.0|
 |flakvistime|0|0|
@@ -191,6 +195,8 @@ A few important things to remember:
 |stuntime|25|25|
 |taper|0|0|
 |taperin|0.0|0.0|
+|tapermax|1.0|1.0|
+|tapermin|0.0|0.0|
 |taperout|0.0|0.0|
 |time|2000|1000|
 |timedelay|0|0|
