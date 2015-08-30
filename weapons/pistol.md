@@ -1,17 +1,10 @@
 #How to Red Eclipse Weapons Guide: Pistol
 ----
-<span style='font-family:verdana;'>
 Welcome to the first weapon guide! We're going to start with the weapon that you'll always have no matter you're loadout, the Pistol!
 ###What is the Pistol? (Noob section)
-<span style='font-family:verdana;'>
-The Pistol is the default spawnweapon, and as such, you'll have it whereever you are  
+The Pistol is the default spawnweapon, and as such, you'll have it whereever you are. It's not the most powerful weapon, but it is a great weapon in certain situations. Remember, you always have this weapon, you don't need to select it in your loadout.
 ###When should I use it?
-Like every other weapon, the pistol is effective in certain situations. Here's a quick list of when you should use it.  
-- When you are short to medium range away from your opponent
-- If you are out of ammo
-- When your opponent has low health (and you are sure of it)
-- If you are fighting someone who is really bad at movement
-- If your opponent is shocked (from zapper or mine)
+The pistol has extremely low damage compared to other weapons. As such, you should go for headshots to maximise your damage output. However, in Red Eclipse, all projectiles have a `speed` variable, which means pistol shots will take time to reach their target. The pistol speed is actually quite low, which makes aiming at a strafing player at med-long distances quite hard.
 
 ###When should I NOT use it?
 Like every other weapon, the pistol should not be used in every situation. Here's a quick list of when you should NOT use it.  
