@@ -1,17 +1,25 @@
-#How to Red Eclipse Weapons Guide: Pistol
+#Red Eclipse Weapons Guide: Pistol
 ----
-Welcome to the first weapon guide! We're going to start with the weapon that you'll always have no matter you're loadout, the Pistol!
+Welcome to the first Weapon Guide, this guide is for the **Pistol**, the weapon everyone carries in normal games.
+
 ###What is the Pistol? (Noob section)
-The Pistol is the default `spawnweapon`, and as such, you'll have it whereever you are. It's not the most powerful weapon, but it is a great weapon in certain situations. Remember, you always have this weapon, you don't need to select it in your loadout.
+The Pistol is the default `spawnweapon`, so you have it in all normal games.
+
+It's not the most powerful weapon, but it is good for quick damage, as a fallback if you run out of ammo in your main loadout weapons, and can deal large amounts of damage quickly with the proper positioning.
 ###More about the Pistol
-The pistol has low damage compared to other weapons, it's a 8 shot kill to the chest! As such, you should go for headshots to maximize your damage output, turning it to a very quick 4 shot kill. Now, now, a  four shot kill to the head with only 130ms between shots seems pretty OP. However, all weapons in Red Eclipse have a `speed` variable, which means it'll take time for your shot to reach the target. The pistol speed is actually low, which makes aiming at players at med-long distances hard
+Although the pistol's primary torso and leg damage are low (13 and 8 for the primary fire), the headshot damage is much stronger, dealing 25 damage every shot. Combined with the fast fire rate of one shot every 130 ms, you can kill with 4 headshots in 520 ms.
+
+The secondary fire deals slightly more damage (10, 18, and 35) for leg, torso, and head), but has a decreased speed and projectile life, as well as a slower fire rate (one shot every 200 ms).
+
+One of the major problems with the pistol is it's accuracy, it's slower speed meaning that it is harder to hit with at medium or long distances.
+
 ###What is the pistol good at?
-The pistol basically has 2 roles in the game.  
-* Killing people with headshots at short distances
-* Finishing off people that you've already damaged heavily
+The pistol's main uses are:
 
+* Killing with headshots at close range.
+* Finishing off a damaged opponent.
 
-#Vars Good Old Vars
+#Pistol Variables
 ##General Variables
 |Name|Value|
 |----|----|
