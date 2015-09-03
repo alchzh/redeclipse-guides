@@ -11,13 +11,19 @@ Although the pistol's primary torso and leg damage are low (13 and 8 for the pri
 
 The secondary fire deals slightly more damage (10, 18, and 35) for leg, torso, and head), but has a decreased speed and projectile life, as well as a slower fire rate (one shot every 200 ms).
 
-One of the major problems with the pistol is it's accuracy, it's slower speed meaning that it is harder to hit with at medium or long distances.
+Reading these past few paragraphs, it makes the pistol seem pretty overpowered, with a 520ms headshot kill time, which is generally considered quite fast in other FPSs, espicially do to the no recoil and non-existing spread of the pistol. However, this is not the case, as with all the other weapons in the game (barring Rifle and Zapper), the pistol has a `speed` variable.
 
+The pistol has a speed, and quite a low one at that. This makes aiming with the pistol at medium-long distances nearly impossible, as players can just dodge with enough time. As such, you should only use the pistol at close ranges, or when the opponent has been damaged previously.
 ###What is the pistol good at?
 The pistol's main uses are:
 
 * Killing with headshots at close range.
 * Finishing off a damaged opponent.
+
+###What is the pistol bad at?
+* Taking down full health opponents
+* Killing players with good movement skills, even at close ranges
+* Doing damage if you don't hit the head
 
 #Pistol Variables
 ##General Variables
