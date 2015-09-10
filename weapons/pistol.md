@@ -21,12 +21,14 @@ The pistol's main uses are:
 * Finishing off a damaged opponent.
 
 ###What is the pistol bad at?
-* Taking down full health opponents
-* Killing players with good movement skills, even at close ranges
-* Doing damage if you don't hit the head
+Please protect my sanity and don't try to do these things.  
+
+* Taking down full health opponents without headshots
+* Killing players with good movement skills without prior damage, even at close-quarters
+* Not aiming for the head, unless they're REALLY low, ie, if you landed 2 good rifle shots
 
 #Pistol Variables
-##General Variables
+##General Variablesk
 |Name|Value|
 |----|----|
 |ammoadd|10
